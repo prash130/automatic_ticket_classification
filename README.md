@@ -1,48 +1,27 @@
+### Automatic Ticket Classification using NLP and ML
 
- # Welcome to Semantic Processing Module
+For a financial company, customer complaints are crucial as they provide insights into the shortcomings of their products and services. Resolving complaints efficiently and on time can reduce customer dissatisfaction and strengthen their loyalty. Additionally, it allows companies to continuously improve their services to attract more customers.
 
-## TOC:
-- How to download files?
-- What is where?
+However, evaluating and assigning each customer support ticket to the relevant department can become a tedious task, especially as the company grows and has a large customer base. This is where natural language processing (NLP) and machine learning (ML) can come to the rescue.
 
-### How to download files?
-![](images/image1.png)
-Click on Code button and then click on Download ZIP
-OR
-Use `git clone https://github.com/ContentUpgrad/intro_to_neural_networks.git` command on your terminal if git is installed in your machine. 
+This project aims to automate the customer support ticket system of a financial company using NLP and ML techniques. The goal is to accurately identify and categorize support tickets based on their content and assign them to the relevant team for swift resolution.
 
+### Solution
+To automate the customer support ticket system, we will use NLP techniques to process and analyze the text data. We will apply ML algorithms to classify support tickets based on their content and assign them to the relevant team. The ML component of this project utilizes a powerful algorithm that predicts the ticket's category based on the content of the ticket, achieving high accuracy rates.
 
-### What is where?
-The folder structure is given below:
+### Features
+- Automatic ticket classification using NLP and ML algorithms
+- Accurate identification and categorization of support tickets
+- Efficient assignment of support tickets to the relevant team for swift resolution
+- Comprehensive documentation and step-by-step guide for using and integrating the system with existing support workflows
+- Open-source codebase for customization and enhancement of the system to fit specific needs.
 
-![](images/image6.png)
+### Technologies
+- Python
+- Natural Language Processing
+- Machine Learning
+- Data Science
 
-As you can see there are three main folders when you log in:
-
-1. **Distributional Semantics** This is where all the code files regarding distributional semantics sessions are kept
-2. **Knowledge Graphs** This is where all the code files regarding Knowledge Graph session are kept
-3. **Topic Modelling**This is where all the code files regarding Topic Modelling session are kept
-
-When you click on any folder you will find the code and data folders as shown below:
-![](images/image2.png)
-You will find all the code files of the session in code folder and data folder will be empty. Please note that you need to follow the instructions given in the segment for downloading data files and keep it in the data folder manually.
-
-#### Distributional Semantics
-You will find the following files in the code folder of Distributional Semantics
-![](images/image4.png)
-The data files required can be found [here](https://drive.google.com/drive/u/0/folders/1KUnMvuufvo0yXS23EaI2EMNaq2lt5Ynh)
-
-#### Knowledge Graphs
-You will find the following files in the code folder of Distributional Semantics
-![](images/image3.png)
-There are no data files required for this session.
-
-#### Topic Modelling
-You will find the following files in the code folder of Distributional Semantics
-![](images/image5.png)
-The data files required can be found [here](https://drive.google.com/drive/u/0/folders/1umS1MgUXyra3KVF-6FsN8krHQ31lXhlX)
-
-
-#### Authors
-Tejaswini Allikanti, Jaidev Deshpande and Gunnvant Saini
+### Conclusion
+"Automatic Ticket Classification using NLP and ML" is a valuable resource for any organization seeking to streamline their support ticket classification and resolution process. The automation of the customer support ticket system using NLP and ML techniques allows companies to efficiently identify and categorize support tickets, assign them to the relevant team for swift resolution, and continuously improve their products and services.
 
